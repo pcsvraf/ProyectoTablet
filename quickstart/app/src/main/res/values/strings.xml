@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quickstart</string>
+
+    <string name="pregunta1"><![CDATA[<b>Realicé el trámite sin inconvenientes</b>]]></string>
+    <string name="pregunta2"><![CDATA[<b>El tiempo que esperé para mi atención fue razonable</b>]]></string>
+    <string name="pregunta3"><![CDATA[<b>Recibí un trato amable</b>]]></string>
+    <string name="pregunta4"><![CDATA[<b>Califique la atención recibida con nota del 1 al 7</b>]]></string>
+    <string name="imagen2"><b>Totalmente\nde Acuerdo</b></string>
+    <string name="imagen3"><b>\tDe\nAcuerdo</b></string>
+    <string name="imagen4"><b>Medianamente\n\tde Acuerdo</b></string>
+    <string name="imagen5"><b>\t\tEn\nDesacuerdo</b></string>
+    <string name="imagen6"><b>Totalmente\ten\n\tDesacuerdo</b></string>
+
+
+</resources>
